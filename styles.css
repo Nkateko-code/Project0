@@ -1,0 +1,36 @@
+
+table {
+border:2px solid black;
+border-collapse:collapse;
+
+}
+th,td{
+border:1px solid black;
+padding: 5px
+width:50%;
+font:bold;
+}
+
+li{
+color:#ad726d;
+}
+
+div {
+	background-color: #f1f1f1;
+	width: 900;
+	height: 200px;
+	margin: 10px;
+	padding:200px;
+text-align: center;
+	
+}
+
+header {
+  background-color: #666;
+  padding: 30px;
+  text-align: center;
+  font-size: 35px;
+  color: white;
+}
+
+
