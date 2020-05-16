@@ -12,25 +12,90 @@ font:bold;
 }
 
 li{
-color:#ad726d;
+color:#303030;
 }
 
 div {
-	background-color: #f1f1f1;
-	width: 900;
+	background-color: #009c9c;
+	width: 1000;
 	height: 200px;
 	margin: 10px;
 	padding:200px;
-text-align: center;
+
 	
 }
 
 header {
-  background-color: #666;
+  background-color: #00bc88;
   padding: 30px;
   text-align: center;
-  font-size: 35px;
-  color: white;
+  font-size: 24px;
+  color: #FFFFFF;
 }
 
+ ol
+    {
+       display: inline-block;
+       margin-left: auto;
+       margin-right: auto;
 
+    }
+
+li {
+text-align: left;
+}
+
+h2{
+text-align: center; 
+}
+
+#Cell {
+
+text-align: center;
+}
+
+.contacts {
+
+text-align: center;
+}
+
+#AC {
+
+text-align: center;
+
+}
+
+.services {
+
+text-align: center;
+
+}
+
+div.gallery {
+
+  margin: 5px;
+  border: 1px solid #ccc;
+  float: left;
+  width: 170px;
+}
+
+div.gallery:hover {
+  border: 1px solid #777;
+}
+
+div.gallery img {
+  width: 100%;
+  height: auto;
+}
+
+div.desc {
+  padding: 40px;
+  text-align: center;
+}
+
+@media only screen and (max-width: 768px) {
+  /* For mobile phones: */
+  [class*="col-"] {
+    width: 100%;
+  }
+}
