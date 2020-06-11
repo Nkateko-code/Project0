@@ -10,4 +10,4 @@ Contact Us Page - This is the page where our contacts details are found and as w
 
 This page contains the images of our home cooked meals and as well as our saving points.
 
-Service - This is the page that lists the services that we offer. 
+Services Page - This is the page that lists the services that we offer. 
