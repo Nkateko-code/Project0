@@ -1,0 +1,14 @@
+#navbar {
+  background-color: #f5f5dc;
+}
+
+#navbar a, #navbar .extend, #navbar td {
+  color: hotpink;
+  font-style: italic;
+  font-size: 20px;
+}
+
+.extend, td {
+  font-style: italic;
+}
+/*# sourceMappingURL=Mail.css.map */

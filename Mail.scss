@@ -1,0 +1,27 @@
+$mycolor: #f5f5dc;
+
+#navbar { 
+
+background-color: $mycolor;
+
+a {
+
+    color: hotpink;
+    font-style: italic;
+    font-size: 20px;
+
+    
+}
+}
+
+.extend {
+
+    @extend a;
+    font-style: italic;
+    
+}
+
+td {
+
+    @extend .extend;
+}
