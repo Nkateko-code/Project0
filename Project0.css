@@ -41,6 +41,11 @@ background-color: #f5f5f5;
 	background-color: red;
 
 }
+.navbar a {
+  float: none;
+  width: 100%;
+}
+
 }
 
 ol
